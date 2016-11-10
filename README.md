@@ -13,8 +13,8 @@ to roll my own, using my newly preferred eCAD software, [Diptrace](http://diptra
 <img src="img/first-build-1.jpg" width="320">
 <img src="img/first-build-2.jpg" width="320">
 
-<blockquote><em>[OSH Park](https://oshpark.com/) was by far the cheapest place to get small 4-layer boards like this made. You get 
-gold plated as standard, too. Did you know that even their packaging is the same funky purple? Great branding!</em></blockquote>
+*[OSH Park](https://oshpark.com/) was by far the cheapest place to get small 4-layer boards like this made. You get 
+gold plated as standard, too. Did you know that even their packaging is the same funky purple? Great branding!*
 
 This design is heavily based on the original from LeafLabs, with special care to retain the ground 
 and power plains for VCC/GND and AVCC/AGND, on a four layer board, along with high quality decoupling 
