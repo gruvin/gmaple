@@ -34,10 +34,10 @@ This is my first 4-layer board, done as much for the learning experience as anyt
 A member of the [Particle™](https://particle.io) (formally Spark™) community put me onto it. I really like it.
 
 2016-11-08: Diptrace is available for free, with all features and libraries, maximum 300 pins and 2 signal layers 
-(unlimited power planes), for non-profit use only -- no board size limits!
+(unlimited power planes), for non-profit use only -- no board size limits! It runs under Windows natively and under Linux and macOS, using abottled wine installation. (I installed the Windows version on my Mac, using my existing wine instance.)
 
-### What about Eagle? 
-There's no comparion. [Diptrace](http://diptrace.com) has no board size limits (only generous 
+### But everyone uses Eagle! 
+Not me. There's no comparion. [Diptrace](http://diptrace.com) has no board size limits (only generous 
 pin count) and has a far more professional user iunterface, in my opinion. Licensed versions are  
 considerably cheaper than Eagle, as far as I can tell.
 
