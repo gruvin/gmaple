@@ -26,7 +26,7 @@ The following are early draft version, [Diptrace](http://diptrace.com) rendering
 <img src="img/gmaple-mini-3db.png" width="320">
 <img src="img/gmaple-mini.png" width="320">
 
-Diptrace uses VRML 2.0 (.wrl) 3D files. The USB socket, LED and push buttons are my own work, done in Wings3D.
+Diptrace uses VRML 2.0 (.wrl) 3D files. The USB socket, LED and push buttons are my own work, done in [Wings3D](www.wings3d.com/).
 
 This is my first 4-layer board, done as much for the learning experience as anything else.
 
@@ -38,18 +38,15 @@ That appears to be $75 now.
 
 ### What about Eagle? 
 There's no comparion. [Diptrace](http://diptrace.com) has no board size limits (only generous 
-pin count) and has a far more professional style user iunterface, IMO. Licensed versions are 
-also considerably cheaper than Eagle.
+pin count) and has a far more professional user iunterface, in my opinion. Licensed versions are  
+considerably cheaper than Eagle, as far as I can tell.
 
-Eagle is $700 minimum for me, because some of my board are larger than Eagle's free version limits.
-Example: [gruvin9x](https://github.com/gruvin/gruvin9x). No way I can justify that amount of coin,
-especially for a program I frankly don't even like.
+Eagle would cost me a minimum $700, because some of my board are larger than Eagle's free version limits.
+Example: [gruvin9x](https://github.com/gruvin/gruvin9x). No way I can justify that, as a small time hobbyist.
 
-
-### KiCAD Still my Favourite
-
-I still use KiCAD for most my designs. Compeltely free, open source and highly capable.
+### Open Source for the Win!
+[KiCAD](http://kicad-pcb.org/) is still my favourite. I it for most of my stuff. It's full open source and 
+free, as in speach and as in beer. It's a no brainer.
 
 ### Creative Commons share-a-like CC-BY-SA 2.0 License
-
 gMaple-mini is licensed to match the original Leaflabs design. 
