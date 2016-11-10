@@ -22,9 +22,9 @@ capacitors, push buttons, etc. (There are cheap knock-offs on eBay without any o
 
 The following are early draft version, [Diptrace](http://diptrace.com) renderings ...
 
-<img src="img/gmaple-mini-3d.png">
-<img src="img/gmaple-mini-3db.png">
-<img src="img/gmaple-mini.png">
+<img src="img/gmaple-mini-3d.png" width="320">
+<img src="img/gmaple-mini-3db.png" width="320">
+<img src="img/gmaple-mini.png" width="320">
 
 Diptrace uses VRML 2.0 (.wrl) 3D files. The USB socket, LED and push buttons are my own work, done in Wings3D.
 
