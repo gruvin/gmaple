@@ -33,8 +33,8 @@ This is my first 4-layer board, done as much for the learning experience as anyt
 ### Diptrace, huh?
 A member of the [Particle™](https://particle.io) (formally Spark™) community put me onto it. I really like it.
 
-2016-11-08: It looks as though Diptrace doesn't offer the free licence I enjoyed back in 2014? 
-That appears to be $75 now.
+2016-11-08: Diptrace is available for free, with all features and libraries, maximum 300 pins and 2 signal layers 
+(unlimited power planes), for non-profit use only -- no board size limits!
 
 ### What about Eagle? 
 There's no comparion. [Diptrace](http://diptrace.com) has no board size limits (only generous 
