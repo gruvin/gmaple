@@ -38,11 +38,11 @@ A member of the [Particle™](https://particle.io) (formally Spark™) community
 
 ### But everyone uses Eagle! 
 Not me. There's no comparion. [Diptrace](http://diptrace.com) has no board size limits (only generous 
-pin count) and has a far more professional user iunterface, in my opinion. Licensed versions are  
-considerably cheaper than Eagle, as far as I can tell.
+pin count) and has a far more user friendly interface. Licensed versions are also considerably cheaper 
+than Eagle, no matter how you look at it.
 
-Eagle would cost me a minimum $700, because some of my board are larger than Eagle's free version limits.
-Example: [gruvin9x](https://github.com/gruvin/gruvin9x). No way I can justify that, as a small time hobbyist.
+Eagle would cost me $700, simply because some of my boards are too big for the free version.
+Example: [gruvin9x](https://github.com/gruvin/gruvin9x). No way I can justify that kind of coin.
 
 ### Open Source for the Win!
 [KiCAD](http://kicad-pcb.org/) is still my favourite. I use it for most my stuff. It's fully open source and 
