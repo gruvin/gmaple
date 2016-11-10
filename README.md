@@ -41,8 +41,9 @@ Not me. There's no comparion. [Diptrace](http://diptrace.com) has no board size 
 pin count) and has a far more user friendly interface. Licensed versions are also considerably cheaper 
 than Eagle, no matter how you look at it.
 
-Eagle would cost me $700, simply because some of my boards are too big for the free version.
-Example: [gruvin9x](https://github.com/gruvin/gruvin9x). No way I can justify that kind of coin.
+Eagle would cost me at $700, simply because some of my boards are too big for the free version, meaning 
+I cannot use it *at all* in those cases. Example: [gruvin9x](https://github.com/gruvin/gruvin9x). 
+No way I can justify that kind of coin.
 
 ### Open Source for the Win!
 [KiCAD](http://kicad-pcb.org/) is still my favourite. I use it for most my stuff. It's fully open source and 
