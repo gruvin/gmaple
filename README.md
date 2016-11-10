@@ -13,6 +13,9 @@ to roll my own, using my newly preferred eCAD software, [Diptrace](http://diptra
 <img src="img/first-build-1.jpg" width="320">
 <img src="img/first-build-2.jpg" width="320">
 
+<blockquote><em>[OSH Park](https://oshpark.com/) was by far the cheapest place to get small 4-layer boards like this made. You get 
+gold plated as standard, too. Did you know that even their packaging is the same funky purple? Great branding!</em></blockquote>
+
 This design is heavily based on the original from LeafLabs, with special care to retain the ground 
 and power plains for VCC/GND and AVCC/AGND, on a four layer board, along with high quality decoupling 
 capacitors, push buttons, etc. (There are cheap knock-offs on eBay without any of that, far as I can tell.)
@@ -25,14 +28,7 @@ The following are early draft version, [Diptrace](http://diptrace.com) rendering
 
 Diptrace uses VRML 2.0 (.wrl) 3D files. The USB socket, LED and push buttons are my own work, done in Wings3D.
 
-This is my first 4-layer board in Diptrace, done as much for the learning curve climb, as anything. After 
-all, LeafLabs say they make the Gerbers freely available. But I haven't found them (for revision two, with 
-the extra diode) and I cannot get my free version of Eagle to produce Gerber files from the original CAD 
-files. Boo hoo! Whatever. Never mind. :p
-
-By far the cheapest place I could find to get small 4-layer boards like this made, was OSH Park. You get 
-gold plated too, which is great. Be warned -- everything they do is in funky purple, even the delivery 
-packaging. :-P I actually quite like it. Great branding, in any case.
+This is my first 4-layer board, done as much for the learning experience as anything else.
 
 ## Diptrace, huh?
 A member of the [Particle™](https://particle.io) (formally Spark™) community put me onto it. I really like it.
