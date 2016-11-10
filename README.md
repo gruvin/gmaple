@@ -1,5 +1,5 @@
 # gMaple-mini
-### Diptrace version by Gruvin
+#### Diptrace version by Gruvin
 
 **2014-03-05** LeafLabs appear to have ended production of their Maple and Maple-mini products.
 
@@ -30,13 +30,13 @@ Diptrace uses VRML 2.0 (.wrl) 3D files. The USB socket, LED and push buttons are
 
 This is my first 4-layer board, done as much for the learning experience as anything else.
 
-## Diptrace, huh?
+### Diptrace, huh?
 A member of the [Particle™](https://particle.io) (formally Spark™) community put me onto it. I really like it.
 
 2016-11-08: It looks as though Diptrace doesn't offer the free licence I enjoyed back in 2014? 
 That appears to be $75 now.
 
-## What about Eagle? 
+### What about Eagle? 
 There's no comparion. [Diptrace](http://diptrace.com) has no board size limits (only generous 
 pin count) and has a far more professional style user iunterface, IMO. Licensed versions are 
 also considerably cheaper than Eagle.
@@ -46,10 +46,10 @@ Example: [gruvin9x](https://github.com/gruvin/gruvin9x). No way I can justify th
 especially for a program I frankly don't even like.
 
 
-## KiCAD Still my Favourite
+### KiCAD Still my Favourite
 
 I still use KiCAD for most my designs. Compeltely free, open source and highly capable.
 
-## Creative Commons License
+### Creative Commons share-a-like CC-BY-SA 2.0 License
 
-gMaple-mini is licensed to match the original Leaflabs design: Creative Commons share-a-like CC-BY-SA 2.0
+gMaple-mini is licensed to match the original Leaflabs design. 
