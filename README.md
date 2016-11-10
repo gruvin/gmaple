@@ -45,7 +45,7 @@ Eagle would cost me a minimum $700, because some of my board are larger than Eag
 Example: [gruvin9x](https://github.com/gruvin/gruvin9x). No way I can justify that, as a small time hobbyist.
 
 ### Open Source for the Win!
-[KiCAD](http://kicad-pcb.org/) is still my favourite. I it for most of my stuff. It's full open source and 
+[KiCAD](http://kicad-pcb.org/) is still my favourite. I use it for most my stuff. It's fully open source and 
 free, as in speach and as in beer. It's a no brainer.
 
 ### Creative Commons share-a-like CC-BY-SA 2.0 License
