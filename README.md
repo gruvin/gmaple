@@ -3,6 +3,11 @@
 
 **2014-03-05** LeafLabs appear to have ended production of their Maple and Maple-mini products.
 
+### Original LeafLabs Source
+EDIT: 2016-12-04: My work was based on a ZIP download, which I appaently forgot even came from LeafLab's 
+[own GitHub repo](https://github.com/leaflabs). You can find all their original Maple-mini
+work at [https://github.com/leaflabs/maplemini](https://github.com/leaflabs/maplemini).
+
 At the time, I was not able to find any suppliers with remaining stock of the Maple-mini. I have 
 since found that SparkFun.com still still appear to make the boards and there's a bunch of cheap
 almost-clones on eBay. Even though the Gerbers from Leaflabs are available somewhere, I decided 
@@ -44,6 +49,10 @@ than Eagle, no matter how you look at it.
 Eagle would cost me at $700, simply because some of my boards are too big for the free version, meaning 
 I cannot use it *at all* in those cases. Example: [gruvin9x](https://github.com/gruvin/gruvin9x). 
 No way I can justify that kind of coin.
+
+#### Original LeafLabs Project
+For schematics in whatever LeafLabs origrinally used  (Eagle?) including PDF format, 
+please see their [original work](https://github.com/leaflabs/maplemini).
 
 ### Open Source for the Win!
 [KiCAD](http://kicad-pcb.org/) is still my favourite. I use it for most my stuff. It's fully open source and 
