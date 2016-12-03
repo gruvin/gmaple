@@ -8,6 +8,7 @@ EDIT: 2016-12-04: My work was based on a ZIP download, which I appaently forgot 
 [own GitHub repo](https://github.com/leaflabs). You can find all their original Maple-mini
 work at [https://github.com/leaflabs/maplemini](https://github.com/leaflabs/maplemini).
 
+### My Diptrace Maple-mini Trial Exercise
 At the time, I was not able to find any suppliers with remaining stock of the Maple-mini. I have 
 since found that SparkFun.com still still appear to make the boards and there's a bunch of cheap
 almost-clones on eBay. Even though the Gerbers from Leaflabs are available somewhere, I decided 
