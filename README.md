@@ -5,8 +5,7 @@
 
 ### Original LeafLabs Source
 EDIT: 2016-12-04: My work was based on a ZIP download, which I appaently forgot even came from LeafLab's 
-[own GitHub repo](https://github.com/leaflabs). You can find all their original Maple-mini
-work at [https://github.com/leaflabs/maplemini](https://github.com/leaflabs/maplemini).
+[own GitHub repo](https://github.com/leaflabs). You can find all their original work there, at [https://github.com/leaflabs](https://github.com/leaflabs).
 
 ### My Diptrace Trial, Maple-mini Exercise
 At the time, I was not able to find any suppliers with remaining stock of the Maple-mini. I have 
