@@ -59,7 +59,7 @@ Diptrace, rather annoyingly, doesn't have a Print-to-PDF option (neither does Wi
 
 ### KiCAD Still the Best Open Source EDA Suite
 [KiCAD](http://kicad-pcb.org/) is still my favourite. I use it for most my stuff. It's fully open source and 
-free, as in speach and as in beer. It's a no brainer.
+free (as in speech and as in beer.)
 
 ### Creative Commons share-a-like CC-BY-SA 2.0 License
 gMaple-mini is licensed to match the original Leaflabs design. 
