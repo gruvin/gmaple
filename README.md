@@ -57,7 +57,7 @@ please see their [original work](https://github.com/leaflabs/maplemini).
 #### Diptrace Schematic PDF
 Diptrace, rather annoyingly, doesn't have a Print-to-PDF option (neither does Windows, *still*, in 2016. What the ...!?) or the ability to "plot" a schematic to a Postscript file or whatever. So, the best I can offer in the way of a PDF schematic is [this screenshot](https://github.com/gruvin/gmaple/raw/master/img/Diptrace%20Schematic%20Screen%20Shot%202016-12-04.png).
 
-### KiCAD still the BEST Open Source EDA Suite. IMO
+### KiCAD Still the Best Open Source EDA Suite
 [KiCAD](http://kicad-pcb.org/) is still my favourite. I use it for most my stuff. It's fully open source and 
 free, as in speach and as in beer. It's a no brainer.
 
